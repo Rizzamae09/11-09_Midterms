@@ -46,6 +46,8 @@ print(_________)
 ANSWER: (A) len(a)     https://www.w3schools.com/python/gloss_python_string_length.asp\
 
 
+15
+
 Python has a set of built-in methods that you can use on strings. Which method can converts string into lower case ?
 (A)capitalize()     (B) casefold()     (C) lower()  
 
